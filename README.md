@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 A responsive 3-column features section built using **HTML** and **CSS**. This project replicates a design specification across desktop, tablet, and mobile breakpoints. Each feature includes an icon, title, and description in a clean and accessible layout.
-
+<img src='designs/Desktop.jpg' alt='An image of a features section page. made into a grid layout where there are multiple about sections. '>
 
 ## 📋 Project Brief
 
@@ -40,11 +40,6 @@ Build a responsive features section based on the provided desktop, tablet, and m
 - ✅ Scales typography and spacing
 - ✅ Semantic and accessible markup
 - ✅ Performance and cross-browser tested
-
-
-## 📸 Screenshots
-<img src='designs/Desktop.jpg' alt='An image of a features section page. made into a grid layout where there are multiple about sections. '>
-
 
 ## 🙌 Acknowledgments
 
